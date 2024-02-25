@@ -34,3 +34,11 @@ If you want to make your own Smart Car Robot, make sure to prepare all the mater
 - 4WD Smart Car Robot Chassis Kit
 - Power Supply *(I recommend using a power bank with an output of 5-12V.)*
 
+---
+
+## Image
+### View from above
+![Smart Car Robot View From Above](smart-car-robot-1.jpg)
+
+### view from the front
+![Smart Car Robot View From The Front](smart-car-robot-2.jpg)
